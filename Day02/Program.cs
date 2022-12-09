@@ -1,6 +1,5 @@
 ﻿using System.Diagnostics;
 
-//string[] input = File.ReadAllLines(@"Path");
 string[] input = File.ReadAllLines(@"Input File Path");
 
 Console.WriteLine($"Part 1 answer is: {Part01Answer(input)}");
