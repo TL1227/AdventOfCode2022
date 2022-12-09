@@ -1,5 +1,5 @@
 ﻿//Main
-string[] input = File.ReadAllLines(@"C:\Users\lavelle.t\Documents\TomProjects\VS Code Projects\AdventOfCode2022\Day03\input.txt");
+string[] input = File.ReadAllLines(@"Path");
 
 Console.WriteLine($"The answer to part 01 is {Part01(input)}");
 Console.WriteLine($"The answer to part 02 is {Part02(input)}");
